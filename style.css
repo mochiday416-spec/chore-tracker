@@ -1,8 +1,5 @@
-body{font-family:Arial,Helvetica,sans-serif;margin:0;padding:1rem;background:#f8f9fa;}
-h1{color:#2c3e50;}
-section{margin-bottom:2rem;}
-input{margin-right:.5rem;padding:.4rem;}
-button{padding:.4rem 1rem;}
-table{width:100%;border-collapse:collapse;}
-th,td{border:1px solid #ddd;padding:.5rem;text-align:center;}
-th{background:#34495e;color:white;}
+body { background:#f9fafb; }
+.navbar { background:#282c34 !important; }
+h2 { font-weight: 500; margin-top: 0; }
+.form-control { width: 100%; }
+.modal .modal-header .btn-close { filter:invert(0.8); }
